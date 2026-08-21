@@ -13,7 +13,11 @@
     "source_url": "https://www.kornfeld.ch/g365/d4201101090.html",
     "image_url": "https://www.kornfeld.ch/auktion/4201/3000/o_1908511.73964.jpg",
     "image_quality": "3000x3000",
-    "notes": "Estate stamp verso"
+    "notes": "Estate stamp verso",
+    "related_projects": [
+      "aargauer_1973",
+      "kornfeld_auctions"
+    ]
   },
   {
     "work_id": "werk_041",
@@ -29,7 +33,10 @@
     "source_url": "https://www.kornfeld.ch/g365/d4201101090.html",
     "image_url": "https://www.kornfeld.ch/auktion/4201/3000/o_1908511.73964.jpg",
     "image_quality": "3000x3000",
-    "notes": "Created with pencil and compass"
+    "notes": "Created with pencil and compass",
+    "related_projects": [
+      "kornfeld_auctions"
+    ]
   },
   {
     "work_id": "werk_042",
@@ -45,7 +52,10 @@
     "source_url": "https://www.kornfeld.ch/g365/d3902103830_Emma-Kunz-Werk-Nr-042.html",
     "image_url": "https://www.kornfeld.ch/auktion/3902/3000/o_1903774.52318.jpg",
     "image_quality": "3000x3000",
-    "notes": "On graph paper using pendulum method"
+    "notes": "On graph paper using pendulum method",
+    "related_projects": [
+      "kornfeld_auctions"
+    ]
   },
   {
     "work_id": "werk_047",
@@ -61,7 +71,10 @@
     "source_url": "https://www.kornfeld.ch/g365/d4403101860_Emma-Kunz-Werk-Nr-47-Das-Kreuz-in-gebundener-Form.html",
     "image_url": "https://www.kornfeld.ch/auktion/4403/640/o_1915425.107267.jpg",
     "image_quality": "640x617",
-    "notes": "Cross motif in bound form"
+    "notes": "Cross motif in bound form",
+    "related_projects": [
+      "kornfeld_auctions"
+    ]
   },
   {
     "work_id": "werk_200",
@@ -77,7 +90,10 @@
     "source_url": "Emma Kunz Foundation catalogue",
     "image_url": null,
     "image_quality": null,
-    "notes": "Circle series work"
+    "notes": "Circle series work",
+    "related_projects": [
+      "kornfeld_auctions"
+    ]
   },
   {
     "work_id": "werk_363",
@@ -93,7 +109,10 @@
     "source_url": "Emma Kunz Foundation catalogue",
     "image_url": "https://www.kornfeld.ch/auktion/4301/3000/o_1910182.88385.jpg",
     "image_quality": "3000x3300",
-    "notes": "Circle series work"
+    "notes": "Circle series work",
+    "related_projects": [
+      "kornfeld_auctions"
+    ]
   },
   {
     "work_id": "werk_506",
@@ -109,7 +128,10 @@
     "source_url": "https://www.kornfeld.ch/g365/d4101101080.html",
     "image_url": "https://www.kornfeld.ch/auktion/4101/3000/o_1905593.63582.jpg",
     "image_quality": "3000x3000",
-    "notes": "Artist's auction record since 2000"
+    "notes": "Artist's auction record since 2000",
+    "related_projects": [
+      "kornfeld_auctions"
+    ]
   },
   {
     "work_id": "werk_507",
@@ -125,7 +147,10 @@
     "source_url": "https://www.kornfeld.ch/g365/d4001101010.html",
     "image_url": "https://www.kornfeld.ch/auktion/4001/640/o_1905530.57089.jpg",
     "image_quality": "640x623",
-    "notes": "Created during Waldstatt period (post-1951/1952)"
+    "notes": "Created during Waldstatt period (post-1951/1952)",
+    "related_projects": [
+      "kornfeld_auctions"
+    ]
   },
   {
     "work_id": "work_003",
@@ -141,7 +166,11 @@
     "source_url": "https://i.pinimg.com/originals/f1/83/40/f18340b49f562231ef91de9151daef61.jpg",
     "image_url": "https://artishockrevista.com/wp-content/uploads/2019/04/Emma-Kunz-Work-No.-003-Photo-%C2%A9-Emma-Kunz-Zentrum.jpg",
     "image_quality": "900x900",
-    "notes": "Radiesthesia drawing with pendulum"
+    "notes": "Radiesthesia drawing with pendulum",
+    "related_projects": [
+      "emma_kunz_zentrum",
+      "serpentine_2019"
+    ]
   },
   {
     "work_id": "work_004",
@@ -157,7 +186,11 @@
     "source_url": "Emma Kunz Zentrum",
     "image_url": "https://i.pinimg.com/originals/b1/a2/2e/b1a22e27a23baeab9f7e675c40cad6a0.png",
     "image_quality": "1000x1000",
-    "notes": "Complex mandala-like radiating grid"
+    "notes": "Complex mandala-like radiating grid",
+    "related_projects": [
+      "emma_kunz_zentrum",
+      "serpentine_2019"
+    ]
   },
   {
     "work_id": "work_012",
@@ -173,7 +206,11 @@
     "source_url": "Serpentine Gallery exhibition",
     "image_url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/03/012_-_press_page-940x1001.jpg",
     "image_quality": "940x1001",
-    "notes": "Diagram of human condition within cosmos, vertical axis represents path to enlightenment"
+    "notes": "Diagram of human condition within cosmos, vertical axis represents path to enlightenment",
+    "related_projects": [
+      "emma_kunz_zentrum",
+      "serpentine_2019"
+    ]
   },
   {
     "work_id": "work_020",
@@ -189,7 +226,11 @@
     "source_url": "Serpentine Gallery exhibition",
     "image_url": null,
     "image_quality": null,
-    "notes": "Prophecy drawing about atomic weapon, created on eve of WWII"
+    "notes": "Prophecy drawing about atomic weapon, created on eve of WWII",
+    "related_projects": [
+      "emma_kunz_zentrum",
+      "serpentine_2019"
+    ]
   },
   {
     "work_id": "work_086",
@@ -205,7 +246,11 @@
     "source_url": "Serpentine Gallery exhibition",
     "image_url": "https://i.pinimg.com/736x/3d/75/17/3d75173256fd341f1963777afb04f441.jpg",
     "image_quality": "640x640",
-    "notes": "Figurative drawing depicting male and female forms within cosmic lattice"
+    "notes": "Figurative drawing depicting male and female forms within cosmic lattice",
+    "related_projects": [
+      "emma_kunz_zentrum",
+      "serpentine_2019"
+    ]
   },
   {
     "work_id": "work_117",
@@ -221,7 +266,11 @@
     "source_url": "Serpentine Gallery exhibition",
     "image_url": null,
     "image_quality": null,
-    "notes": "Four elongated yellow diamonds with distinct internal patterns, demonstrates pulsating rhythm"
+    "notes": "Four elongated yellow diamonds with distinct internal patterns, demonstrates pulsating rhythm",
+    "related_projects": [
+      "emma_kunz_zentrum",
+      "serpentine_2019"
+    ]
   },
   {
     "work_id": "work_190",
@@ -237,7 +286,11 @@
     "source_url": "Serpentine Gallery exhibition",
     "image_url": null,
     "image_quality": null,
-    "notes": "Final drawing, stepped pyramid form. Kunz wrote: 'With this last picture I have opened the seventh chamber of the pyramid'"
+    "notes": "Final drawing, stepped pyramid form. Kunz wrote: 'With this last picture I have opened the seventh chamber of the pyramid'",
+    "related_projects": [
+      "emma_kunz_zentrum",
+      "serpentine_2019"
+    ]
   },
   {
     "work_id": "work_396",
@@ -253,7 +306,11 @@
     "source_url": "Serpentine Gallery exhibition",
     "image_url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/03/396_-_press_page-1-1001x1001.jpg",
     "image_quality": "1001x1001",
-    "notes": "Kaleidoscopic color modulation with pulsating concentric patterns"
+    "notes": "Kaleidoscopic color modulation with pulsating concentric patterns",
+    "related_projects": [
+      "emma_kunz_zentrum",
+      "serpentine_2019"
+    ]
   },
   {
     "work_id": "kreuz_005",
@@ -269,7 +326,10 @@
     "source_url": "https://shop.emma-kunz.com/E/6/work-catalogue.htm",
     "image_url": null,
     "image_quality": null,
-    "notes": "Cross series work, Item No. 90 121"
+    "notes": "Cross series work, Item No. 90 121",
+    "related_projects": [
+      "emma_kunz_zentrum"
+    ]
   },
   {
     "work_id": "kreis_072",
@@ -285,7 +345,10 @@
     "source_url": "https://shop.emma-kunz.com/E/6/work-catalogue.htm",
     "image_url": null,
     "image_quality": null,
-    "notes": "Circle series work, Item No. 90 123"
+    "notes": "Circle series work, Item No. 90 123",
+    "related_projects": [
+      "emma_kunz_zentrum"
+    ]
   },
   {
     "work_id": "komplex_005",
@@ -301,7 +364,10 @@
     "source_url": "https://shop.emma-kunz.com/E/6/work-catalogue.htm",
     "image_url": null,
     "image_quality": null,
-    "notes": "Complex series work, Item No. 90 124"
+    "notes": "Complex series work, Item No. 90 124",
+    "related_projects": [
+      "emma_kunz_zentrum"
+    ]
   },
   {
     "work_id": "kreis_079",
@@ -317,7 +383,10 @@
     "source_url": "https://shop.emma-kunz.com/E/6/work-catalogue.htm",
     "image_url": null,
     "image_quality": null,
-    "notes": "Circle series work, Item No. 90 125"
+    "notes": "Circle series work, Item No. 90 125",
+    "related_projects": [
+      "emma_kunz_zentrum"
+    ]
   },
   {
     "work_id": "komplex_176",
@@ -333,7 +402,10 @@
     "source_url": "https://shop.emma-kunz.com/E/6/work-catalogue.htm",
     "image_url": null,
     "image_quality": null,
-    "notes": "Complex series work, Item No. 90 126"
+    "notes": "Complex series work, Item No. 90 126",
+    "related_projects": [
+      "emma_kunz_zentrum"
+    ]
   },
   {
     "work_id": "werk_057",
@@ -349,7 +421,10 @@
     "source_url": "Aargauer Kunsthaus",
     "image_url": "https://blokmagazine.com/wp-content/uploads/2021/05/1a-kunz-werk-nr.57-1200x1135.jpeg",
     "image_quality": "1200x1135",
-    "notes": "Shown in Emma Kunz Cosmos exhibition"
+    "notes": "Shown in Emma Kunz Cosmos exhibition",
+    "related_projects": [
+      "aargauer_cosmos_2021"
+    ]
   },
   {
     "work_id": "werk_101",
@@ -365,7 +440,10 @@
     "source_url": "Aargauer Kunsthaus",
     "image_url": "http://blokmagazine.com/wp-content/uploads/2021/05/1b-kunz-werk-nr.101-1200x1190.jpeg",
     "image_quality": "1200x1190",
-    "notes": "Shown in Emma Kunz Cosmos exhibition"
+    "notes": "Shown in Emma Kunz Cosmos exhibition",
+    "related_projects": [
+      "aargauer_cosmos_2021"
+    ]
   },
   {
     "work_id": "werk_094",
@@ -445,7 +523,10 @@
     "source_url": "https://shop.emma-kunz.com/E/6/work-catalogue.htm",
     "image_url": null,
     "image_quality": null,
-    "notes": "Cross series work, Item No. 90 122"
+    "notes": "Cross series work, Item No. 90 122",
+    "related_projects": [
+      "emma_kunz_zentrum"
+    ]
   },
   {
     "work_id": "kreis_077",
@@ -461,7 +542,10 @@
     "source_url": "https://shop.emma-kunz.com/E/6/work-catalogue.htm",
     "image_url": null,
     "image_quality": null,
-    "notes": "Circle series work, Item No. 90 127"
+    "notes": "Circle series work, Item No. 90 127",
+    "related_projects": [
+      "emma_kunz_zentrum"
+    ]
   },
   {
     "work_id": "kreuz_139",
@@ -477,7 +561,10 @@
     "source_url": "https://shop.emma-kunz.com/E/6/work-catalogue.htm",
     "image_url": null,
     "image_quality": null,
-    "notes": "Cross series work, Item No. 90 128"
+    "notes": "Cross series work, Item No. 90 128",
+    "related_projects": [
+      "emma_kunz_zentrum"
+    ]
   },
   {
     "work_id": "kreuz_138",
@@ -493,7 +580,10 @@
     "source_url": "https://shop.emma-kunz.com/E/6/work-catalogue.htm",
     "image_url": null,
     "image_quality": null,
-    "notes": "Cross series work, Item No. 90 129"
+    "notes": "Cross series work, Item No. 90 129",
+    "related_projects": [
+      "emma_kunz_zentrum"
+    ]
   },
   {
     "work_id": "komplex_109",
@@ -509,7 +599,10 @@
     "source_url": "https://shop.emma-kunz.com/E/6/work-catalogue.htm",
     "image_url": null,
     "image_quality": null,
-    "notes": "Complex series work, Item No. 90 131"
+    "notes": "Complex series work, Item No. 90 131",
+    "related_projects": [
+      "emma_kunz_zentrum"
+    ]
   },
   {
     "work_id": "komplex_114",
@@ -525,7 +618,11 @@
     "source_url": "https://shop.emma-kunz.com/E/6/work-catalogue.htm",
     "image_url": null,
     "image_quality": null,
-    "notes": "Complex series work, Item No. 90 136, included in dialogue with Dora Budor's work"
+    "notes": "Complex series work, Item No. 90 136, included in dialogue with Dora Budor's work",
+    "related_projects": [
+      "aargauer_cosmos_2021",
+      "emma_kunz_zentrum"
+    ]
   },
   {
     "work_id": "work_011",
@@ -541,7 +638,10 @@
     "source_url": "Exhibition sources",
     "image_url": null,
     "image_quality": null,
-    "notes": "Delicate, kaleidoscopic composition"
+    "notes": "Delicate, kaleidoscopic composition",
+    "related_projects": [
+      "emma_kunz_zentrum"
+    ]
   },
   {
     "work_id": "work_013",
@@ -557,6 +657,9 @@
     "source_url": "Exhibition sources",
     "image_url": null,
     "image_quality": null,
-    "notes": "Radiesthesia drawing"
+    "notes": "Radiesthesia drawing",
+    "related_projects": [
+      "emma_kunz_zentrum"
+    ]
   }
 ]

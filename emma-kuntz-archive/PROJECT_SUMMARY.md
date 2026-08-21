@@ -1,13 +1,32 @@
 # Emma Kunz Digital Archive - Project Completion Summary
 
-**Date**: August 1, 2025  
-**Status**: PILOT PROJECT COMPLETED ✅
+**Date**: August 1, 2025 (Phase 1) · August 21, 2026 (Phase 2 re-hydration)  
+**Status**: PHASE 2 RE-HYDRATION COMPLETED ✅
 
 ## Mission Accomplished
 
 Successfully created a comprehensive digital archive of Emma Kunz's artwork with 33 highest quality pieces, establishing extensible tooling for future research iterations.
 
-## Deliverables Completed
+## Phase 2 Re-hydration (August 2026)
+
+Expanded the archive with artist biography, institutional context, and Serpentine exhibition documentation:
+
+### New Documentation
+- **`docs/artist_bio.md`** — Comprehensive narrative biography (life, practice, legacy)
+- **`docs/related_projects.md`** — Exhibitions, institutions, publications, contemporary dialogues
+- **`docs/serpentine_2019_exhibition.md`** — Deep dive on *Visionary Drawings* (Serpentine/Muzeum Susch)
+- **`README.md`** (root + archive) — Navigation entry points
+
+### New Structured Metadata
+- **`metadata/artist.json`** — Machine-readable artist biography
+- **`metadata/related_projects.json`** — 7 projects/institutions with work cross-references
+- **`metadata/archive_index.json`** — Archive navigation and Serpentine work index
+
+### Re-hydrated Work Sidecars
+- Expanded 5 Serpentine 2019 works with descriptions, exhibition context, and project links
+- Added missing sidecar for Work No. 094 (Emma Kunz Museum)
+
+## Phase 1 Deliverables (August 2025)
 
 ### 1. Structured Metadata Collection
 - **File**: `metadata/kunz_artworks.json`
@@ -58,11 +77,12 @@ This pilot establishes:
 
 ## Next Phase Recommendations
 
-### Immediate Extensions (Phase 2):
+### Immediate Extensions (Phase 3):
 1. **Scale to 100+ works**: Complete specific series (all Kreis/Circle works)
-2. **Enhanced imaging**: Target remaining auction house collections
-3. **Academic partnerships**: Connect with Swiss art history institutions
-4. **Rights documentation**: Systematic reproduction permissions tracking
+2. **Acquire missing Serpentine images**: Work No. 020, 117, 190 (metadata-only)
+3. **Enhanced imaging**: Target remaining auction house collections
+4. **Academic partnerships**: Connect with Swiss art history institutions
+5. **Rights documentation**: Systematic reproduction permissions tracking
 
 ### Technical Improvements:
 1. **Database migration**: Move from JSON to full database system

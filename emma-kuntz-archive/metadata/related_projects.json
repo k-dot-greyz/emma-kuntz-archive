@@ -1,0 +1,153 @@
+{
+  "projects": [
+    {
+      "project_id": "serpentine_2019",
+      "title": "Emma Kunz: Visionary Drawings",
+      "type": "solo_exhibition",
+      "venue": "Serpentine Gallery",
+      "location": "London, UK",
+      "dates": {
+        "start": "2019-03-23",
+        "end": "2019-05-19"
+      },
+      "curator": "Melissa Blanchflower",
+      "conceived_with": "Christodoulos Panayiotou",
+      "works_count": 65,
+      "significance": "First UK solo exhibition; first solo show since 1970s",
+      "url": "https://www.serpentinegalleries.org/whats-on/emma-kunz-visionary-drawings-exhibition-conceived-christodoulos-panayiotou/",
+      "tour": [
+        {
+          "venue": "Muzeum Susch",
+          "location": "Switzerland",
+          "dates": { "start": "2019-07-26", "end": "2019-11-10" }
+        }
+      ],
+      "collaborative_elements": [
+        {
+          "artist": "Christodoulos Panayiotou",
+          "work": "Stone benches quarried from AION A healing rock"
+        }
+      ],
+      "related_programming": [
+        {
+          "title": "AION A Workshop on Emma Kunz's Healing Practice",
+          "leader": "Jacqueline G. Schaerer",
+          "url": "https://www.serpentinegalleries.org/whats-on/aion-workshop-emma-kunzs-healing-practice/"
+        }
+      ],
+      "catalogue": {
+        "title": "Emma Kunz — Visionary Drawings",
+        "contributors": [
+          "Dawn Ades",
+          "Bice Curiger",
+          "Desmond Morris",
+          "Hans Ulrich Obrist",
+          "Tabita Rezaire",
+          "Ali Smith"
+        ],
+        "designer": "Roland Brauchli",
+        "url": "https://shop.serpentinegalleries.org/products/emma-kunz-visionary-drawings-an-exhibition-conceived-with-christodoulos-panayiotou"
+      },
+      "archived_work_ids": [
+        "work_003", "work_004", "work_012", "work_020",
+        "work_086", "work_117", "work_190", "work_396"
+      ],
+      "doc": "docs/serpentine_2019_exhibition.md"
+    },
+    {
+      "project_id": "aargauer_cosmos_2021",
+      "title": "Emma Kunz Cosmos — A Visionary in Dialogue with Contemporary Art",
+      "type": "group_exhibition",
+      "venue": "Aargauer Kunsthaus",
+      "location": "Aarau, Switzerland",
+      "dates": { "year": 2021 },
+      "editor": "Yasmin Afschar",
+      "significance": "Dialogue between Kunz drawings and contemporary artists",
+      "archived_work_ids": [
+        "werk_057", "werk_101", "komplex_114"
+      ],
+      "contemporary_dialogues": [
+        {
+          "artist": "Dora Budor",
+          "paired_work_id": "komplex_114"
+        }
+      ],
+      "publication": {
+        "title": "Emma Kunz: A Visionary in Dialogue With Contemporary Art",
+        "editor": "Yasmin Afschar",
+        "publisher": "Scheidegger & Spiess",
+        "year": 2021
+      }
+    },
+    {
+      "project_id": "aargauer_1973",
+      "title": "Der Fall Emma Kunz",
+      "type": "solo_exhibition",
+      "venue": "Aargauer Kunsthaus",
+      "location": "Aarau, Switzerland",
+      "dates": { "start": "1973", "end": "1974" },
+      "curator": "Harald Szeemann",
+      "significance": "First public exhibition of Kunz's work",
+      "archived_work_ids": ["werk_006"]
+    },
+    {
+      "project_id": "venice_2013",
+      "title": "The Encyclopedic Palace",
+      "type": "group_exhibition",
+      "venue": "55th Venice Biennale, Central Pavilion",
+      "location": "Venice, Italy",
+      "dates": { "year": 2013 },
+      "curator": "Massimiliano Gioni",
+      "significance": "International visibility at Venice Biennale"
+    },
+    {
+      "project_id": "abstraction_2005",
+      "title": "3 x Abstraction: New Methods of Drawing",
+      "type": "group_exhibition",
+      "venue": "Santa Monica Museum of Art",
+      "location": "Santa Monica, USA",
+      "dates": { "year": 2005 },
+      "artists": ["Hilma af Klint", "Emma Kunz", "Agnes Martin"],
+      "significance": "Early framing of spiritual abstraction trio"
+    },
+    {
+      "project_id": "emma_kunz_zentrum",
+      "title": "Emma Kunz Zentrum & AION A Grotto",
+      "type": "institution",
+      "venue": "Emma Kunz Zentrum",
+      "location": "Würenlos, Switzerland",
+      "founded": 1986,
+      "founder": "Anton C. Meier",
+      "url": "https://www.emma-kunz.com/",
+      "holdings": "581-work catalogue raisonné, AION A grotto",
+      "archived_work_ids": [
+        "work_003", "work_004", "work_012", "work_086",
+        "work_094", "work_396", "kreuz_005", "kreis_072",
+        "komplex_005", "kreis_079", "komplex_176", "kreuz_169",
+        "kreis_077", "kreuz_139", "kreuz_138", "komplex_109"
+      ]
+    },
+    {
+      "project_id": "kornfeld_auctions",
+      "title": "Galerie Kornfeld Auction Records",
+      "type": "art_market",
+      "venue": "Galerie Kornfeld",
+      "location": "Bern, Switzerland",
+      "url": "https://www.kornfeld.ch/",
+      "significance": "Primary source for high-res auction images and provenance",
+      "archived_work_ids": [
+        "werk_006", "werk_041", "werk_042", "werk_047",
+        "werk_200", "werk_363", "werk_506", "werk_507"
+      ],
+      "notable_sales": [
+        {
+          "work_id": "werk_506",
+          "price_usd": 284569,
+          "date": "2021-09",
+          "note": "Artist auction record since 2000"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-08-21"
+}

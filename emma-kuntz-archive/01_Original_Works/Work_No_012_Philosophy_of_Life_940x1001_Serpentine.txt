@@ -3,15 +3,29 @@ Catalogue Number: Work No. 012
 Year: circa 1940s
 Medium: Crayon and oil-crayon on graph paper with blue lines
 Dimensions: 110 × 105 cm
-Current Location: Emma Kunz Zentrum
-Provenance: Emma Kunz Zentrum
-Exhibition History: Serpentine Gallery 2019
-Auction Record: Not specified
-Source URL: Serpentine Gallery exhibition
+Current Location: Emma Kunz Zentrum, Würenlos, Switzerland
+Provenance: Emma Kunz Zentrum (Emma Kunz Foundation collection)
+Exhibition History: Serpentine Gallery, London — Emma Kunz: Visionary Drawings (23 Mar – 19 May 2019); Muzeum Susch tour (Jul – Nov 2019)
+Auction Record: Not applicable (Foundation collection)
+Source URL: https://www.serpentinegalleries.org/whats-on/emma-kunz-visionary-drawings-exhibition-conceived-christodoulos-panayiotou/
+Image URL: https://d37zoqglehb9o7.cloudfront.net/uploads/2020/03/012_-_press_page-940x1001.jpg
 Image Quality: 940x1001
-Notes: Diagram of human condition within cosmos, vertical axis represents path to enlightenment
+Image Credit: © Emma Kunz Zentrum
+
+Description:
+One of Kunz's most celebrated drawings, Work No. 012 presents a vertical cosmic diagram mapping the human condition. The vertical axis represents the path to enlightenment; horizontal bands structure zones of earthly and spiritual existence. Kunz created this during her mature period using radiesthesia — a divining pendulum guided the placement of every line on blue-lined graph paper.
+
+Serpentine 2019 Context:
+Featured as a highlight of the first UK solo exhibition of Emma Kunz's work. Curator Melissa Blanchflower selected this drawing for its clarity in communicating Kunz's cosmological vision. Reproduced in the Serpentine catalogue with essays by Dawn Ades, Hans Ulrich Obrist, and Ali Smith.
+
+Related Projects:
+- Serpentine 2019: serpentine_2019 (see docs/serpentine_2019_exhibition.md)
+- Emma Kunz Zentrum: emma_kunz_zentrum (see metadata/related_projects.json)
+
+Notes: Diagram of human condition within cosmos, vertical axis represents path to enlightenment. Kunz did not title this work; "Philosophy of Life" is a curatorial designation from the Foundation catalogue.
 
 ---
 Filename: Work_No_012_Philosophy_of_Life_940x1001_Serpentine.jpg
 Work ID: work_012
 Archive Date: 2025-08-01
+Re-hydrated: 2026-08-21

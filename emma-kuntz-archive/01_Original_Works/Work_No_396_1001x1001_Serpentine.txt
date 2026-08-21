@@ -1,17 +1,31 @@
 Title: Work No. 396
 Catalogue Number: Work No. 396
 Year: after 1938
-Medium: Geometric drawing on graph paper
+Medium: Coloured pencil and crayon on graph paper
 Dimensions: Not specified
-Current Location: Emma Kunz Zentrum
-Provenance: Emma Kunz Zentrum
-Exhibition History: Serpentine Gallery 2019
-Auction Record: Not specified
-Source URL: Serpentine Gallery exhibition
+Current Location: Emma Kunz Zentrum, Würenlos, Switzerland
+Provenance: Emma Kunz Zentrum (Emma Kunz Foundation collection)
+Exhibition History: Serpentine Gallery, London — Emma Kunz: Visionary Drawings (23 Mar – 19 May 2019); Muzeum Susch tour (Jul – Nov 2019)
+Auction Record: Not applicable (Foundation collection)
+Source URL: https://www.serpentinegalleries.org/whats-on/emma-kunz-visionary-drawings-exhibition-conceived-christodoulos-panayiotou/
+Image URL: https://d37zoqglehb9o7.cloudfront.net/uploads/2020/03/396_-_press_page-1-1001x1001.jpg
 Image Quality: 1001x1001
-Notes: Kaleidoscopic color modulation with pulsating concentric patterns
+Image Credit: © Emma Kunz Zentrum
+
+Description:
+Work No. 396 displays kaleidoscopic color modulation with pulsating concentric patterns radiating from a central axis. The drawing demonstrates Kunz's mastery of the radiesthetic method at scale — the pendulum guided both structural geometry and chromatic placement across the graph paper grid.
+
+Serpentine 2019 Context:
+Included in the Serpentine press materials and online documentation for the 2019 exhibition. The high-resolution press image (1001×1001) is among the best publicly available reproductions of this work.
+
+Related Projects:
+- Serpentine 2019: serpentine_2019
+- Emma Kunz Zentrum: emma_kunz_zentrum
+
+Notes: Kaleidoscopic color modulation with pulsating concentric patterns. Part of the Komplex series in the Foundation catalogue.
 
 ---
 Filename: Work_No_396_1001x1001_Serpentine.jpg
 Work ID: work_396
 Archive Date: 2025-08-01
+Re-hydrated: 2026-08-21
