@@ -1,0 +1,87 @@
+{
+  "archive_version": "2.0",
+  "phase": "re-hydrated",
+  "last_updated": "2026-08-21",
+  "artist": {
+    "ref": "metadata/artist.json",
+    "bio": "docs/artist_bio.md"
+  },
+  "catalogue": {
+    "ref": "metadata/kunz_artworks.json",
+    "total_works": 33,
+    "images_on_disk": 14,
+    "sidecars_on_disk": 14
+  },
+  "projects": {
+    "ref": "metadata/related_projects.json",
+    "index": "docs/related_projects.md",
+    "serpentine_2019": "docs/serpentine_2019_exhibition.md"
+  },
+  "directories": {
+    "original_works": "01_Original_Works/",
+    "docs": "docs/",
+    "metadata": "metadata/",
+    "phase1_snapshot": "Emma_Kunz_Archive_2025-08-01/"
+  },
+  "serpentine_2019_works_in_archive": [
+    {
+      "work_id": "work_012",
+      "title": "Philosophy of Life",
+      "image": "01_Original_Works/Work_No_012_Philosophy_of_Life_940x1001_Serpentine.jpg",
+      "sidecar": "01_Original_Works/Work_No_012_Philosophy_of_Life_940x1001_Serpentine.txt"
+    },
+    {
+      "work_id": "work_396",
+      "title": "Work No. 396",
+      "image": "01_Original_Works/Work_No_396_1001x1001_Serpentine.jpg",
+      "sidecar": "01_Original_Works/Work_No_396_1001x1001_Serpentine.txt"
+    },
+    {
+      "work_id": "work_004",
+      "title": "Work No. 004",
+      "image": "01_Original_Works/Work_No_004_1000x1000_Emma_Kunz_Zentrum.png",
+      "sidecar": "01_Original_Works/Work_No_004_1000x1000_Emma_Kunz_Zentrum.txt"
+    },
+    {
+      "work_id": "work_086",
+      "title": "The Human Couple in the Cosmos",
+      "image": "01_Original_Works/Work_No_086_Human_Couple_in_Cosmos_640x640_Emma_Kunz_Zentrum.jpg",
+      "sidecar": "01_Original_Works/Work_No_086_Human_Couple_in_Cosmos_640x640_Emma_Kunz_Zentrum.txt"
+    },
+    {
+      "work_id": "work_003",
+      "title": "Work No. 003",
+      "image": "01_Original_Works/Work_No_003_900x900_Emma_Kunz_Zentrum.jpg",
+      "sidecar": "01_Original_Works/Work_No_003_900x900_Emma_Kunz_Zentrum.txt"
+    },
+    {
+      "work_id": "work_020",
+      "title": "Work No. 020",
+      "image": null,
+      "sidecar": null,
+      "note": "Metadata only — prophetic 1939 drawing"
+    },
+    {
+      "work_id": "work_117",
+      "title": "Work No. 117",
+      "image": null,
+      "sidecar": null,
+      "note": "Metadata only — 1950 diamond composition"
+    },
+    {
+      "work_id": "work_190",
+      "title": "Work No. 190",
+      "image": null,
+      "sidecar": null,
+      "note": "Metadata only — final 1963 drawing"
+    }
+  ],
+  "documentation": [
+    { "file": "README.md", "purpose": "Archive entry point" },
+    { "file": "docs/artist_bio.md", "purpose": "Expanded artist biography" },
+    { "file": "docs/related_projects.md", "purpose": "Exhibitions and institutional context" },
+    { "file": "docs/serpentine_2019_exhibition.md", "purpose": "Serpentine exhibition deep dive" },
+    { "file": "docs/README.md", "purpose": "Research methodology" },
+    { "file": "PROJECT_SUMMARY.md", "purpose": "Project completion summary" }
+  ]
+}

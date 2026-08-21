@@ -1,17 +1,31 @@
 Title: The Human Couple in the Cosmos (Work No. 086)
 Catalogue Number: Work No. 086
-Year: late 1930s-early 1940s
+Year: late 1930s–early 1940s
 Medium: Crayon on graph paper
 Dimensions: approximately 90 × 90 cm
-Current Location: Emma Kunz Zentrum
-Provenance: Emma Kunz Zentrum
-Exhibition History: Serpentine Gallery 2019
-Auction Record: Not specified
-Source URL: Serpentine Gallery exhibition
+Current Location: Emma Kunz Zentrum, Würenlos, Switzerland
+Provenance: Emma Kunz Zentrum (Emma Kunz Foundation collection)
+Exhibition History: Serpentine Gallery, London — Emma Kunz: Visionary Drawings (23 Mar – 19 May 2019)
+Auction Record: Not applicable (Foundation collection)
+Source URL: https://www.serpentinegalleries.org/whats-on/emma-kunz-visionary-drawings-exhibition-conceived-christodoulos-panayiotou/
+Image URL: https://i.pinimg.com/736x/3d/75/17/3d75173256fd341f1963777afb04f441.jpg
 Image Quality: 640x640
-Notes: Figurative drawing depicting male and female forms within cosmic lattice
+Image Credit: © Emma Kunz Zentrum
+
+Description:
+Among Kunz's relatively rare figurative works, Work No. 086 depicts male and female forms embedded within a cosmic lattice of geometric lines. The human couple is integrated into the energy field rather than placed outside it — consistent with Kunz's view that human relationships exist within universal harmonic structures.
+
+Serpentine 2019 Context:
+Selected for the Serpentine exhibition as an example of Kunz's occasional departure from pure abstraction into figurative cosmic representation. Demonstrates the range of her visual vocabulary beyond concentric circles and cross motifs.
+
+Related Projects:
+- Serpentine 2019: serpentine_2019
+- Emma Kunz Zentrum: emma_kunz_zentrum
+
+Notes: Figurative drawing depicting male and female forms within cosmic lattice. One of the few works in the archive with identifiable human figures.
 
 ---
 Filename: Work_No_086_Human_Couple_in_Cosmos_640x640_Emma_Kunz_Zentrum.jpg
 Work ID: work_086
 Archive Date: 2025-08-01
+Re-hydrated: 2026-08-21

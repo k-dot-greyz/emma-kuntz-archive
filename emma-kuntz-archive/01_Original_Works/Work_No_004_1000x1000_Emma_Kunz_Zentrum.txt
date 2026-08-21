@@ -1,17 +1,32 @@
 Title: Work No. 004
 Catalogue Number: Work No. 004
 Year: after 1938
-Medium: Geometric drawing on graph paper
+Medium: Coloured pencil and crayon on graph paper
 Dimensions: Not specified
-Current Location: Emma Kunz Zentrum
-Provenance: Emma Kunz Zentrum
-Exhibition History: Serpentine Gallery 2019, various exhibitions
-Auction Record: Not specified
-Source URL: Emma Kunz Zentrum
+Current Location: Emma Kunz Zentrum, Würenlos, Switzerland
+Provenance: Emma Kunz Zentrum (Emma Kunz Foundation collection)
+Exhibition History: Serpentine Gallery, London — Emma Kunz: Visionary Drawings (2019); various Foundation exhibitions
+Auction Record: Not applicable (Foundation collection)
+Source URL: https://www.serpentinegalleries.org/whats-on/emma-kunz-visionary-drawings-exhibition-conceived-christodoulos-panayiotou/
+Image URL: https://i.pinimg.com/originals/b1/a2/2e/b1a22e27a23baeab9f7e675c40cad6a0.png
 Image Quality: 1000x1000
-Notes: Complex mandala-like radiating grid
+Image Credit: © Emma Kunz Zentrum
+
+Description:
+Work No. 004 presents a complex mandala-like radiating grid — concentric geometric layers expanding outward from a central point. The drawing exemplifies Kunz's early large-scale period (post-1938) when she transitioned from exercise-book sketches to full-scale graph paper compositions guided by the pendulum.
+
+Serpentine 2019 Context:
+Used in Serpentine press photography and the AION A workshop promotional materials. One of the most visually accessible introductions to Kunz's radiesthetic drawing method.
+
+Related Projects:
+- Serpentine 2019: serpentine_2019
+- AION A Workshop (Serpentine): related programming
+- Emma Kunz Zentrum: emma_kunz_zentrum
+
+Notes: Complex mandala-like radiating grid. Featured in Serpentine 2019 press imagery alongside AION A grotto photographs.
 
 ---
 Filename: Work_No_004_1000x1000_Emma_Kunz_Zentrum.png
 Work ID: work_004
 Archive Date: 2025-08-01
+Re-hydrated: 2026-08-21

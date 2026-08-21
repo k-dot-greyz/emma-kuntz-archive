@@ -1,0 +1,111 @@
+{
+  "artist_id": "emma_kunz",
+  "name": {
+    "full": "Emma Kunz",
+    "birth_name": "Emma Kunz",
+    "nickname": "Penta"
+  },
+  "dates": {
+    "birth": "1892-05-23",
+    "death": "1963-01-16",
+    "birth_place": "Brittnau, Canton of Aargau, Switzerland",
+    "death_place": "Waldstatt, Appenzell Ausserrhoden, Switzerland"
+  },
+  "roles": [
+    "healer",
+    "naturopath",
+    "researcher",
+    "artist",
+    "telepath"
+  ],
+  "practice": {
+    "primary_method": "radiesthesia",
+    "tools": [
+      "divining pendulum",
+      "graph paper",
+      "coloured pencils",
+      "graphite",
+      "oil crayons"
+    ],
+    "drawing_period": {
+      "start": 1938,
+      "end": 1963
+    },
+    "total_works": 581,
+    "series": {
+      "Kreis": { "range": "001-092", "count": 92 },
+      "Kreuz": { "range": "001-172", "count": 172 },
+      "Komplex": { "range": "001-316", "count": 316 }
+    },
+    "healing_rock": {
+      "name": "AION A",
+      "discovered": 1942,
+      "location": "Würenlos, Switzerland",
+      "composition": "calcium carbonate, silicic acid (quartz)"
+    }
+  },
+  "publications_by_artist": [
+    { "topic": "poetry", "format": "book" },
+    { "topic": "telepathy", "format": "book" },
+    { "topic": "prophecy", "format": "book" },
+    { "topic": "medical meanings of drawings", "format": "notebooks" }
+  ],
+  "estate": {
+    "guardian": "Anton C. Meier",
+    "foundation_founded": 1986,
+    "foundation_name": "Emma Kunz Stiftung / Zentrum",
+    "foundation_url": "https://www.emma-kunz.com/",
+    "foundation_email": "stiftung@emma-kunz.com",
+    "provenance_chain": [
+      "Emma Kunz (estate)",
+      "Otto Kunz (brother)",
+      "Anton C. Meier",
+      "Emma Kunz Zentrum"
+    ]
+  },
+  "major_collections": [
+    {
+      "institution": "Emma Kunz Zentrum",
+      "location": "Würenlos, Switzerland",
+      "holdings": "Complete 581-work catalogue",
+      "url": "https://shop.emma-kunz.com/E/6/work-catalogue.htm"
+    },
+    {
+      "institution": "Aargauer Kunsthaus",
+      "location": "Aarau, Switzerland",
+      "holdings": "500+ works",
+      "url": "https://aargauerkunsthaus.ch/en/exhibitions/online-catalogue/?filter=kuenstler_emma-kunz-penta9450"
+    },
+    {
+      "institution": "Emma Kunz Museum",
+      "location": "Würenlos, Switzerland",
+      "holdings": "Permanent collection"
+    }
+  ],
+  "notable_works": [
+    {
+      "work_id": "work_012",
+      "title": "Philosophy of Life",
+      "significance": "Cosmic diagram of human condition"
+    },
+    {
+      "work_id": "work_020",
+      "title": "Work No. 020",
+      "year": 1939,
+      "significance": "Prophetic atomic weapon drawing"
+    },
+    {
+      "work_id": "work_190",
+      "title": "Work No. 190",
+      "year": 1963,
+      "significance": "Final drawing — seventh chamber of the pyramid"
+    },
+    {
+      "work_id": "werk_506",
+      "title": "Werk Nr. 506 (Kreis-506)",
+      "significance": "Record auction price USD 284,569"
+    }
+  ],
+  "bio_document": "docs/artist_bio.md",
+  "last_updated": "2026-08-21"
+}

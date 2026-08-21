@@ -1,13 +1,26 @@
 # Emma Kunz Digital Archive - Methodology & Documentation
 
 **Project**: Comprehensive Digital Archive of Emma Kunz's Artwork  
-**Date**: August 1, 2025  
-**Phase**: Pilot Project (33 highest quality works)  
+**Date**: August 1, 2025 (Phase 1) · Re-hydrated August 21, 2026 (Phase 2)  
+**Phase**: Pilot collection (33 works) + expanded bio, projects, and Serpentine context  
 **Objective**: Create extensible tooling and methodology for systematic art historical research
+
+## Documentation Index
+
+| Document | Purpose |
+|----------|---------|
+| [Artist Biography](artist_bio.md) | Expanded life, practice, and legacy |
+| [Related Projects & Exhibitions](related_projects.md) | Institutions, exhibitions, publications |
+| [Serpentine 2019 Exhibition](serpentine_2019_exhibition.md) | Deep dive on *Visionary Drawings* |
+| [metadata/artist.json](../metadata/artist.json) | Structured artist data |
+| [metadata/related_projects.json](../metadata/related_projects.json) | Machine-readable project cross-refs |
+| [metadata/archive_index.json](../metadata/archive_index.json) | Archive navigation index |
 
 ## Project Overview
 
 This pilot project establishes a systematic methodology for researching and archiving Emma Kunz's (1892-1963) distinctive geometric and abstract drawings. Emma Kunz was a Swiss healer and artist who created over 400 pendulum-guided radiesthetic drawings on graph paper between 1938-1963. Her work bridges art, spirituality, and healing practices.
+
+For a full narrative biography, see [Artist Biography](artist_bio.md). For exhibition and institutional context — especially the Serpentine Galleries' 2019 presentation — see [Related Projects](related_projects.md).
 
 ## Directory Structure
 
@@ -198,6 +211,6 @@ The methodology established here can be adapted for other artists, movements, or
 
 ---
 
-**Last Updated**: August 1, 2025  
-**Next Review**: Phase 2 expansion targeting 100+ works  
-**Methodology Version**: 1.0
+**Last Updated**: August 21, 2026  
+**Next Review**: Phase 3 expansion targeting 100+ works with images  
+**Methodology Version**: 2.0
